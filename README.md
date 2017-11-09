@@ -27,3 +27,4 @@ P0nj4, german.f.pereyra@gmail.com
 ## License
 
 DotsLoader is available under the MIT license. See the LICENSE file for more info.
+# DotsLoader
